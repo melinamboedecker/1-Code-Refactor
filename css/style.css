@@ -48,9 +48,8 @@ p {
     font-size: 16px;
 }
 
-/* changed height to percent to maintain aspect ratio */
+/* removed height requirement as not needed to maintain aspect ratio */
 #digital-marketing {
-    height: 133%;
     width: 100%;
     margin-bottom: 25px;
 }
