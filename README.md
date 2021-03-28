@@ -8,4 +8,4 @@ This is the first homework assignment for UC Davis Full Stack Coding Boot Camp. 
 ![Image](images/1-CodeRefactorScreenshot.png)
 
 ## Link
- (https://melinamboedecker.github.io/1-Code-Refactor/)
+ https://melinamboedecker.github.io/1-Code-Refactor/
